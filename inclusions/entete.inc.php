@@ -17,9 +17,9 @@
         <h2>Admin - Restaurant Leila</h2>
         <nav class="navigation-principale">
             <ul>
-                <li><a href="categories.html">Catégories</a></li>
-                <li><a href="plats.html">Plats</a></li>
-                <li><a href="vins.html">Vins</a></li>
+                <li><a href="categories.php">Catégories</a></li>
+                <li><a href="plats.php">Plats</a></li>
+                <li><a href="vins.php">Vins</a></li>
             </ul>
         </nav>
     </header>
