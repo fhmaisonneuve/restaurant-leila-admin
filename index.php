@@ -1,11 +1,11 @@
 <?php
-require('inclusions/entete.php');
+require('inclusions/entete.inc.php');
 ?>
 
 
 <section class="gestion-utilisateur">
     <form class="connexion">
-        <legend>Ouvrir une connexione</legend>
+        <legend>Ouvrir une connexion</legend>
         <div class="champs">
             <label for="cnx-courriel">Courriel</label>
             <input type="email" name="courriel" id="cnx-courriel" placeholder="Adresse de courriel">
@@ -19,5 +19,5 @@ require('inclusions/entete.php');
 </section>
 
 <?php
-require('inclusions/pieddepage.php');
+require('inclusions/pieddepage.inc.php');
 ?>

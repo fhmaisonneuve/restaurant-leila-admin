@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="fr">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -10,6 +11,7 @@
     <link rel="icon" type="image/png" href="ressources/images/favicon.png" />
     <title>Admin :: Restaurant Leila</title>
 </head>
+
 <body>
     <header>
         <h2>Admin - Restaurant Leila</h2>
